@@ -1,0 +1,1 @@
+@echo off powershell -Command "& {Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.MessageBox]::Show('Hey bud, have a geez at Alpaca and TradingView to see what your bot has been up to while you slept lol. Hope we made some $$$', 'Check AutoTrader Alert!', 'OK', [System.Windows.Forms.MessageBoxIcon]::Information);}"
